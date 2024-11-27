@@ -1,25 +1,25 @@
-# Application Backend pour la Gestion des Offres d'Emploi
+# Backend application for managing job offers
 
-Cette application backend développée avec **Spring Boot** permet de gérer une plateforme simplifiée pour les offres d'emploi.
+This backend application developed with **Spring Boot** allows you to manage a simplified platform for job offers.
 
-## Fonctionnalités Principales
+## Main Features
 
-### 1. Acteurs de l'application
-- **Administrateur (ADMIN) :** Responsable de la gestion complète de la plateforme.
-- **Candidat (CANDIDATE) :** Utilisateur pouvant consulter et interagir avec les offres d'emploi.
+### 1. Application actors
+- Administrator (ADMIN):** Responsible for the complete management of the platform.
+- Applicant (CANDIDATE) :** User who can consult and interact with job offers.
 
-### 2. Fonctionnalités par rôle
+### 2. Features by role
 
-#### Administrateur (ADMIN)
-- Gestion des secteurs d'activité.
-- Gestion des offres d'emploi (création, mise à jour, suppression).
-- Consultation de la liste des candidats inscrits.
-- Visualisation des statistiques globales.
+#### Administrator (ADMIN)
+- Manage business sectors.
+- Manage job offers (create, update, delete).
+- View list of registered candidates.
+- View global statistics.
 
-#### Candidat (CANDIDATE)
-- Inscription sur la plateforme.
-- Consultation des offres d'emploi et de leurs détails.
+#### Candidate (CANDIDATE)
+- Register on the platform.
+- View job offers and details.
 
-### 3. Informations Techniques
-- **Authentification :** Implémentée avec JWT pour une sécurité renforcée.
-- **Documentation API :** Une documentation interactive est disponible grâce à Swagger.
+### 3. technical information
+- Authentication:** Implemented with JWT for enhanced security.
+- API documentation:** Interactive documentation is available through Swagger.
